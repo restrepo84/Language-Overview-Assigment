@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def main():
     #create two variables and print them
     a, b = 0, "one"
